@@ -8,23 +8,25 @@
 
 # 📌 Contents
 
-* [Screenshots](#camera-screenshot) 
-* [Technologies](#rocket-technologies) 
-* [How to Run](#computer-how-to-run)
-* [Issues](#bug-issues)
-* [Contributing](#sparkles-issues)
-* [License](#page_facing_up-license)
+- [Screenshots](#camera-screenshot)
+- [Technologies](#rocket-technologies)
+- [How to Run](#computer-how-to-run)
+- [Issues](#bug-issues)
+- [Contributing](#sparkles-issues)
+- [License](#page_facing_up-license)
 
 # :camera: Screenshots
+
 <div align="center">
    <img src="./public/screen.png" width="500px">
 </div>
 
 # :rocket: Technologies
+
 This project was made using the follow technologies:
 
-* [Typescript](https://www.typescriptlang.org/)      
-* [React](https://reactjs.org/)      
+- [Typescript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
 
 # :computer: How to run
 
@@ -40,6 +42,7 @@ $ npm i
 # Run Aplication
 $ npm run dev
 ```
+
 Go to http://localhost:5173/ to see the result.
 
 # :bug: Issues
@@ -56,6 +59,6 @@ Create a <a href="https://github.com/andreluas/react-query/issues">new issue rep
 # :page_facing_up: License
 
 This project is under the [MIT license](./LICENSE).
-Made with 💖 by [André Almeida](https://www.linkedin.com/in/andreluas/). 
+Made with 💖 by [André Almeida](https://www.linkedin.com/in/andreluas/).
 
 Thank you! 🌠
